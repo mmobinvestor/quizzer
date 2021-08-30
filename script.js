@@ -9,7 +9,9 @@
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @updateURL    https://raw.githubusercontent.com/mmobinvestor/quizzer/main/script.js
 // @downloadURL  https://raw.githubusercontent.com/mmobinvestor/quizzer/main/script.js
-// @grant        none
+// @grant        GM_getResourceText
+// @grant        GM_addStyle
+// @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
 (function() {
