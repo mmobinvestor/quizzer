@@ -29,9 +29,6 @@
         }, 500);
     }
 
-    // /qredo-option-1-sale/506388c5-7b77-4ef8-8e34-2a2d7d338eeb/quiz
-
-    // Мы на странице опроса
     if (path.includes('/quiz')) {
         $.getJSON('https://www.seomax.info/answers?url=' + path, function(answers) {
             for (var i = 0; i < answers.length; ++i) {
