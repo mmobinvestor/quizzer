@@ -4,9 +4,11 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       Jonh Doe
-// @match        https://coinlist.co/qredo-option-1-sale*
+// @match        https://coinlist.co/*
 // @icon         https://www.google.com/s2/favicons?domain=google.com
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
+// @updateURL    https://raw.githubusercontent.com/mmobinvestor/quizzer/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/mmobinvestor/quizzer/main/script.js
 // @grant        none
 // ==/UserScript==
 
