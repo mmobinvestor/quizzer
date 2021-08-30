@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         [LOCAL] Coinlist Quiz Checker
+// @name         Quiz Checker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  try to take over the world!
 // @author       Jonh Doe
 // @match        https://coinlist.co/*
