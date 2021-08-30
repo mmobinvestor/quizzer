@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       Jonh Doe
-// @match        http://localhost/*
+// @match        https://coinlist.co/qredo-option-1-sale*
 // @icon         https://www.google.com/s2/favicons?domain=google.com
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant        none
