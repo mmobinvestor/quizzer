@@ -46,9 +46,9 @@
                 for (var i = 0; i < answers.length; ++i) {
                     $('label:contains("'+answers[i]+'")').find('input').prop('checked', true).trigger('change');
                 }
+                $('.js-submit')[0].click();
             }
         });
-        // $('.js-submit')[0].click();
     }
 
 })();
