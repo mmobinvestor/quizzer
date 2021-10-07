@@ -39,7 +39,7 @@
     if (path.includes('/quiz')) {
         GM_xmlhttpRequest({
             method: 'GET',
-            url: 'https://www.seomax.info/answers?url=/' + path.split('/')[1],
+            url: 'https://lambadas.dev/answers?url=/' + path.split('/')[1],
             onload: function (response) {
                 var answers = JSON.parse(response.responseText);
 
